@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+⛓️♻️🐄🐮🐂🐑
+👇🌲☕
+🌦️🌤️🌥️☁️
 -->
 
-- 🔭 I’m currently working on a PRV Desktop program to control breaks in Rational Voisin Grazing (Repository: PRV-Pastoreo-Racional-Voisin-)
-- 🌱 I’m currently learning Python - FastAPI library
-- 💬 Ask me about my projets
+- 🔭 I’m currently working on a desktop program called PRV ♻️.  
+- 🌱 I’m currently learning FastAPI library 📚.
+- 🚀 I want to be a backend programmer.  
+- 💻 I love the blockchain ⛓️.
+- 💬 Ask me about my projets 👇.   
