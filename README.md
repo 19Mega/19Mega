@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a PRV Desktop program to control breaks in Rational Voisin Grazing (Repository: PRV-Pastoreo-Racional-Voisin-)
+- 🌱 I’m currently learning Python - FastAPI library
+- 💬 Ask me about my projets
