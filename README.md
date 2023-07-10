@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 🌦️🌤️🌥️☁️
 -->
 
-- 🔭 I’m currently working on a desktop program called PRV ♻️.  
-- 🌱 I’m currently learning FastAPI library 📚.
+- ♻️ I’m currently working on a desktop program called PRV.  
+- 📚 I’m currently learning FastAPI library.
 - 🚀 I want to be a backend programmer.  
-- 💻 I love the blockchain ⛓️.
-- 💬 Ask me about my projets 👇.   
+- 💻 I love the blockchain and the IA.
+- 💬 Ask me anything about my projets. 👇   
