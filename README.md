@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 I'm a proactive software developer with over 3 years of experience collaborating on development projects using agile methodologies. My passion for programming drives me to actively seek out meaningful projects where I can participate and continue learning.
 
-Skills:
+**Skills:**
 - Programming Languages: C++, Python, JavaScript.
 - Frameworks and Libraries: FastAPI, Tkinter, Pandas, Flask-Sqlalchemy, React, React Router, Flux.
 - Databases: Sqlite3, MySQL.
