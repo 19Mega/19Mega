@@ -35,10 +35,26 @@ I'm a proactive software developer with over 3 years of experience collaborating
 
 I'm always open to new opportunities and ways to expand my knowledge and network. I dedicate all my efforts to delivering quick and high-quality results. If you're looking for a talented and passionate software developer, please don't hesitate to get in touch with me.
 
-- 💬 Ask me anything about my projets. 👇
+- 💬 Ask me anything about my projets. 👇  
 
-[![GitHub Streak](https://github-readme-streak-stats-ten-ruby.vercel.app?user=19Mega&theme=modern-lilac2&border_radius=15&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats-ten-ruby.vercel.app?user=19Mega&theme=radical&border_radius=15&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
+
+  <a href="https://github.com/19Mega">
+   <span><img src="https://github-readme-stats.vercel.app/api?username=19Mega&show_icons=true&theme=radical&border_radius=15&hide_border=true&date_format=%5BY%20%5DM%20j&card_width=500" alt="Esta es una imagen de mis estadísticas de GitHub" /></span>
+  </a>
+
+
+
+
+
+
+   <!--
+  <a href="https://github.com/19Mega">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Mega&theme=transparent&show_icons=true&hide_border=true&langs_count=4&layout=compact" />
+  </a>
+  -->
+</p>
 
 
 You can reach me via email at: 
