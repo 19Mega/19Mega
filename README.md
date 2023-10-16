@@ -37,6 +37,14 @@ I'm always open to new opportunities and ways to expand my knowledge and network
 
 - 💬 Ask me anything about my projets. 👇
 
+<div align="center">
+    <span><img src="https://github-readme-stats.vercel.app/api?username=19Mega&show_icons=true&theme=highcontrast" alt="19Megastats"/></span>
+    <span><a href="#" height=5000000 width=500000></a></span>
+    <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Mega&show_icons=true&theme=highcontrast" alt="19Megavlanguages"/></span>
+</div>
+
+
+
 You can reach me via email at: 
 matiasborba89@gmail.com 
 
