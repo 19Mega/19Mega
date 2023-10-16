@@ -37,11 +37,7 @@ I'm always open to new opportunities and ways to expand my knowledge and network
 
 - 💬 Ask me anything about my projets. 👇
 
-<div align="center">
-    <span><img src="https://github-readme-stats.vercel.app/api?username=19Mega&show_icons=true&theme=highcontrast" alt="19Megastats"/></span>
-    <span><a href="#" height=5000000 width=500000></a></span>
-    <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19Mega&show_icons=true&theme=highcontrast" alt="19Megavlanguages"/></span>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats-ten-ruby.vercel.app?user=19Mega&theme=modern-lilac2&border_radius=15&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
 
 
 
