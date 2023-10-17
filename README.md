@@ -41,11 +41,12 @@ I'm a Full Stack Developer with +3 years of experience in collaborative developm
 <hr>
     
 **Languages:**  
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![C++](https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
 
 **Frameworks and Libraries:**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)
@@ -55,7 +56,7 @@ I'm a Full Stack Developer with +3 years of experience in collaborative developm
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB)
 
-**Data Bases and Tools:**  
+**Databases and Tools:**  
 ![MySQL](https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white)
